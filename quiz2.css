@@ -1,28 +1,26 @@
-html body {
-  font-family: Helvetica, Arial, sans-serif;
+body {
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
 }
 
-heade {
+
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  border: 2px solid DarkOrange;
+  padding: 10px;
   text-align: center;
 }
 
-h1 {
-  font-weight: boldest;
-  text-deckoration: underlines;
-  boarder: 2px solid darkorange;
-  padding: 10px 20px;
-}
-
 .dynamic {
-  disply: none;
+  display: none;
 }
 
 section {
-  margin-bottom 10px;
+  margin-bottom: 10px;
 }
 
 fieldset {
-  margin-bottom: 10px
-  padding: 10px
+  margin-bottom: 10px;
+  padding: 10px;
 }
